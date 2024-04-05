@@ -4,7 +4,7 @@ Project Description: It is an End-to-End deep learning project to classify disea
 plants. I have built a web application in this project that can take a picture of the
 plant and tell the farmer if the plant has a disease or not.
 
-# installation - 
+# installation : 
 
 - Python
   
@@ -16,9 +16,10 @@ Install the required dependencies:
 
 - Streamlit
 
-  # for Run app -
+  # for Run app :
  In command line  
 - stremlit run main_app.py 
 
-## Dataset - kaggle
+## Dataset :
+- kaggle
   
